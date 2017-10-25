@@ -1,0 +1,11 @@
+id,fk_scales,construct
+1,1,potency
+2,2,potency
+3,3,achievement
+4,4,achievement
+5,5,adjustment
+7,6,agreeableness
+8,7,dependability
+9,8,dependability
+10,9,dependability
+11,10,locus of control
